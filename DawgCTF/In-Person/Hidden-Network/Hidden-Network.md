@@ -1,6 +1,6 @@
 # Hidden Network
 
-- Challenge Author: LMN1460
+- Challenge Author: that1cam
 - DawgCTF 2025
 
 ## Prompt
