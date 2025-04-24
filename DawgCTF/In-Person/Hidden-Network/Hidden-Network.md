@@ -1,4 +1,4 @@
-# Pup's First Foxhunt
+# Hidden Network
 
 - Challenge Author: LMN1460
 - DawgCTF 2025
