@@ -9,4 +9,7 @@ This is just a repository where I plan to put any CTF writeups that I find worth
 ---------------
 # Table of Contents
 
+- DawgCTF
+    - [!!LET ME OUT!!](A-Wolf1/Public-CTF-Writeups/DawgCTF/In-Person/!!LET-ME-OUT!!.md)
+
 
